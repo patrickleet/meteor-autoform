@@ -1,6 +1,6 @@
 Package.describe({
-  name: "aldeed:autoform",
-  summary: "Easily create forms with automatic insert and update, and automatic reactive validation.",
+  name: "patrickleet:autoform",
+  summary: "Fork of aldeed:autoform",
   git: "https://github.com/aldeed/meteor-autoform.git",
   version: "5.1.3"
 });
